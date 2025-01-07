@@ -12,10 +12,10 @@ const WalletCard = () => {
       <View style={styles.containerInternal}>
         <TotalArea />
         <Spacer space={20} />
-        <Text>Please refer to my other repos for further assessment.</Text>
-        <Text>I did this after my work day.</Text>
+        <Text>1</Text>
+        <Text>2</Text>
         <Spacer />
-        <Text>Assessment time was running out.</Text>
+        <Text>3</Text>
         <Spacer />
         <Text>Missing graph can be added using any graph library.</Text>
         <Spacer />
